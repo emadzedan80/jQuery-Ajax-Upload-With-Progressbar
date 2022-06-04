@@ -1,0 +1,14 @@
+DB Name: wp_ajax_upload
+DB User: wp_ajax_upload_uid
+DB Password: xm-kFeRXha(aaBrt
+DB Table Prefix: wp_upload_
+
+Wp User: Emad
+WP Password: BUOXzyUYlfxwL2Djfy
+WP Email: emadzedan@gmail.com
+
+jQuery Ajax Custom Secure Anti-Spam With Google reCAPTCHA V2 Form With Upload File Input Field & Upload Progress & Nonce Using WordPress.
+
+
+https://www.google.com/recaptcha/about/
+https://developers.google.com/recaptcha/docs/display
